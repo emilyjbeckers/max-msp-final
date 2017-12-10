@@ -1,0 +1,1 @@
+open thispatcherfolder "Macintosh HD:/Users/emilyjbeckers/Documents/School/MUST2431/final/assets"folder "Macintosh HD:/Users/emilyjbeckers/Documents/School/MUST2431/final/effects”folder "Macintosh HD:/Users/emilyjbeckers/Documents/School/MUST2431/final/joycon"open "Macintosh HD:/Users/emilyjbeckers/Documents/School/MUST2431/final/+main.maxpat"
